@@ -1769,7 +1769,7 @@
     "across_back": "(330 + 16)/2",
     "amskye_length": "204",
     "armscye_width": "(bust_circ + 80)/8 - 15",
-    "b": "(distance(A6,A15)\n-hip_circ/2\n)/2",
+    "b": "(\n  distance(A6, A15)\n    - hip_circ / 2\n) / 2",
     "back_length": "38.8",
     "back_shoulder_height": "2.35",
     "bust_arc_f": "(bust_circ+8)/5",
