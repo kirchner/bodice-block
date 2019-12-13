@@ -1781,7 +1781,7 @@
     "hip_height": "190",
     "hip_with_abdomen_arc_f": "825 / 2 + 40",
     "neck_circ": "355",
-    "neck_depth": "neck_circ/5+0.5",
+    "neck_depth": "neck_circ / 5 + 5",
     "neck_lenth_back": "neck_circ/5-0.5",
     "neck_width": "neck_circ/5-1",
     "shoulder_length": "12.2",
