@@ -1137,7 +1137,7 @@
       "direction": {
         "type": "up"
       },
-      "distance": "distance(A8,A9)/4"
+      "distance": "distance(A8, A9) / 4"
     },
     "A52": {
       "type": "fromOnePoint",
