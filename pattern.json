@@ -1293,7 +1293,7 @@
           "direction": {
             "type": "down"
           },
-          "distance": "distance(A27,A28)/2"
+          "distance": "distance(A27, A28) / 2"
         }
       },
       "endControlPoint": {
@@ -1307,7 +1307,7 @@
           "direction": {
             "type": "leftward"
           },
-          "distance": "2*distance(Origin,A27)/3"
+          "distance": "2 * distance(Origin, A27) / 3"
         }
       },
       "endPoint": {
