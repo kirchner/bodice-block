@@ -1252,9 +1252,9 @@
           },
           "direction": {
             "type": "directionAngle",
-            "angle": "angleOfLine(A29,A28)+90"
+            "angle": "angleOfLine(A29, A28) + 90"
           },
-          "distance": "distance(A29,A52)/3"
+          "distance": "distance(A29, A52) / 3"
         }
       },
       "endControlPoint": {
@@ -1268,7 +1268,7 @@
           "direction": {
             "type": "up"
           },
-          "distance": "distance(A52,A25)/4"
+          "distance": "distance(A52, A25) / 4"
         }
       },
       "endPoint": {
