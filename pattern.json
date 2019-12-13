@@ -630,7 +630,7 @@
       "direction": {
         "type": "leftward"
       },
-      "distance": "3"
+      "distance": "30"
     },
     "A32": {
       "type": "betweenLength",
