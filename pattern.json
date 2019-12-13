@@ -684,7 +684,7 @@
         "type": "directionAngle",
         "angle": "angleOfLine(A33, A29) + 90"
       },
-      "distance": "60"
+      "distance": "6"
     },
     "A34": {
       "type": "intersection",
