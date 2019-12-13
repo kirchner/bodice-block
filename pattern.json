@@ -562,7 +562,7 @@
       "direction": {
         "type": "up"
       },
-      "distance": "2.5"
+      "distance": "25"
     },
     "A29": {
       "type": "intersection",
