@@ -1789,6 +1789,6 @@
     "waist_length": "485",
     "width_bust": "(bust_circ + 80) / 2",
     "width_hip": "(hip_circ + 40) / 2",
-    "width_waist": "(waist_circ+6)/2"
+    "width_waist": "(waist_circ + 60) / 2"
   }
 }
