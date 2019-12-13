@@ -1775,7 +1775,7 @@
     "bust_arc_f": "(bust_circ + 80) / 5",
     "bust_circ": "760",
     "bust_height": "313",
-    "dart_width_bust": "4.5",
+    "dart_width_bust": "45",
     "front_shoulder_height": "4.6",
     "hip_circ": "82.5",
     "hip_height": "19",
