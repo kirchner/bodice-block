@@ -1772,7 +1772,7 @@
     "b": "(\n  distance(A6, A15)\n    - hip_circ / 2\n) / 2",
     "back_length": "388",
     "back_shoulder_height": "23.5",
-    "bust_arc_f": "(bust_circ+8)/5",
+    "bust_arc_f": "(bust_circ + 80) / 5",
     "bust_circ": "76",
     "bust_height": "31.3",
     "dart_width_bust": "4.5",
