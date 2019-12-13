@@ -922,7 +922,7 @@
         "type": "that",
         "name": "A39"
       },
-      "distance": "2",
+      "distance": "20",
       "from": {
         "type": "firstInTwo"
       }
