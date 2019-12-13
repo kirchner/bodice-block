@@ -1371,7 +1371,7 @@
           "direction": {
             "type": "rightward"
           },
-          "distance": "distance(A11,A10)/2"
+          "distance": "distance(A11, A10) / 2"
         }
       },
       "endControlPoint": {
@@ -1385,7 +1385,7 @@
           "direction": {
             "type": "down"
           },
-          "distance": "2*distance(A52,A10)/3"
+          "distance": "2 * distance(A52, A10) / 3"
         }
       },
       "endPoint": {
