@@ -642,7 +642,7 @@
         "type": "that",
         "name": "A29"
       },
-      "distance": "4",
+      "distance": "40",
       "from": {
         "type": "firstInTwo"
       }
