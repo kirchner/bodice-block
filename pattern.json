@@ -730,7 +730,7 @@
               "type": "that",
               "name": "A34"
             },
-            "radius": "shoulder_length"
+            "radius": "shoulder_length - 10"
           }
         }
       },
