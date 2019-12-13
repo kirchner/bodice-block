@@ -1785,7 +1785,7 @@
     "neck_lenth_back": "neck_circ / 5 - 5",
     "neck_width": "neck_circ / 5 - 10",
     "shoulder_length": "122",
-    "waist_circ": "58",
+    "waist_circ": "580",
     "waist_length": "485",
     "width_bust": "(bust_circ + 80) / 2",
     "width_hip": "(hip_circ + 40) / 2",
