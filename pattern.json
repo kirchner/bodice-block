@@ -1764,7 +1764,7 @@
   },
   "transformations": {},
   "variables": {
-    "a": "(distance(A4,A13)\n-waist_circ/2\n)/6",
+    "a": "(\n  distance(A4, A13)\n    - waist_circ / 2\n) / 6",
     "abdomen_height": "90",
     "across_back": "(330 + 16)/2",
     "amskye_length": "204",
