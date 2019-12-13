@@ -576,7 +576,7 @@
               "type": "that",
               "name": "A28"
             },
-            "radius": "shoulder_length+2"
+            "radius": "shoulder_length + 20"
           }
         }
       },
