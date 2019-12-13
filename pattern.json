@@ -835,7 +835,7 @@
         "type": "that",
         "name": "A36"
       },
-      "distance": "5",
+      "distance": "50",
       "from": {
         "type": "firstInTwo"
       }
