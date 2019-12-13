@@ -1767,7 +1767,7 @@
     "a": "(distance(A4,A13)\n-waist_circ/2\n)/6",
     "abdomen_height": "90",
     "across_back": "(330 + 16)/2",
-    "amskye_length": "20.4",
+    "amskye_length": "204",
     "armscye_width": "(bust_circ+8)/8-1.5",
     "b": "(distance(A6,A15)\n-hip_circ/2\n)/2",
     "back_length": "38.8",
