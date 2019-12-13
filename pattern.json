@@ -619,7 +619,7 @@
       "direction": {
         "type": "down"
       },
-      "distance": "7"
+      "distance": "70"
     },
     "A31": {
       "type": "fromOnePoint",
