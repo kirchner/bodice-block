@@ -655,9 +655,9 @@
       },
       "direction": {
         "type": "directionAngle",
-        "angle": "angleOfLine(A28,A29)+90"
+        "angle": "angleOfLine(A28, A29) + 90"
       },
-      "distance": "0.6"
+      "distance": "6"
     },
     "A33": {
       "type": "betweenLength",
