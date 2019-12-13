@@ -682,9 +682,9 @@
       },
       "direction": {
         "type": "directionAngle",
-        "angle": "angleOfLine(A33,A29)+90"
+        "angle": "angleOfLine(A33, A29) + 90"
       },
-      "distance": "0.6"
+      "distance": "6"
     },
     "A34": {
       "type": "intersection",
