@@ -1771,7 +1771,7 @@
     "armscye_width": "(bust_circ + 80)/8 - 15",
     "b": "(\n  distance(A6, A15)\n    - hip_circ / 2\n) / 2",
     "back_length": "388",
-    "back_shoulder_height": "2.35",
+    "back_shoulder_height": "23.5",
     "bust_arc_f": "(bust_circ+8)/5",
     "bust_circ": "76",
     "bust_height": "31.3",
