@@ -712,7 +712,7 @@
               "type": "that",
               "name": "A20"
             },
-            "radius": "bust_height-neck_lenth_back"
+            "radius": "bust_height - neck_lenth_back"
           }
         }
       },
