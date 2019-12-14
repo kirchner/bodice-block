@@ -335,7 +335,7 @@
       "direction": {
         "type": "leftward"
       },
-      "distance": "bust_circ/2+5"
+      "distance": "bust_circ/2 + 50"
     },
     "A20": {
       "type": "fromOnePoint",
