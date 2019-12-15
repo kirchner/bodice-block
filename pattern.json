@@ -324,7 +324,7 @@
       "direction": {
         "type": "up"
       },
-      "distance": "0.5"
+      "distance": "5"
     },
     "A2": {
       "type": "fromOnePoint",
